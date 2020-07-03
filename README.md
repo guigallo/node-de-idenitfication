@@ -1,0 +1,1 @@
+Basic script for implement node crypto Cipher crypt and decrypt.
